@@ -1,7 +1,7 @@
 # A GraphQL frontend for the GraphQL-library created
 Requires the graphql library-backend to be running on localhost:4000
 
-# Start thr application locally
+# Start the application locally
 
 # Install dependencies
 $ npm install
